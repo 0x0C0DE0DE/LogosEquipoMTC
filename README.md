@@ -1,1 +1,1 @@
-Los logos que están en finales son los que os mostré en la elección. Los otros son un poco mezcla de ideas que no llegaron a nada o colores distintos
+Los logos que están en presentados son los que os mostré en la elección. Los de otros son un poco mezcla de ideas que no llegaron a nada o colores distintos, de antes de los resultados de la votación. Los nuevos son los prototipos que se están haciendo y los finales son las versiones finales de los prototipos.
