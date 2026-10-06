@@ -15,7 +15,7 @@
 						<stop offset="100%" stop-color="#ebdbb2" />
 			</radialGradient>
 			</defs>
-		<circle id="outercircle" cx="0" cy="0" r="1" fill="#458588" stroke="black" stroke-width="0.01" />
+		<circle id="outercircle" cx="0" cy="0" r="1" fill="#162153" stroke="black" stroke-width="0.01" />
 		<!-- ABAJO -->
 		<g style="fill:url(#degr3); stroke:black; stroke-width:0.01">
 			<circle id="C01" cx="+0.000000" cy="-0.751836" r="0.248163" />
@@ -25,7 +25,7 @@
 
 			<circle id="C02" cx="-0.468509" cy="-0.588010" r="0.248163" />
 			<g transform="translate(-0.468509, -0.588010) scale(0.4,-0.4)">
-				<text x="0" y="0" transform="rotate(0, 0, 0)" text-anchor="middle" dominant-baseline="middle" font-family="times" font-weight="bold" font-size="1" fill="#88d3e6">
+				<text x="0" y="0"  text-anchor="middle" dominant-baseline="middle" font-family="times" font-weight="bold" font-size="1" fill="#88d3e6">
 					U</text></g>
 			<circle id="C03" cx="+0.468509" cy="-0.588010" r="0.248163" />>
 			<g transform="translate(+0.468509, -0.588010) scale(0.4,-0.4)">
