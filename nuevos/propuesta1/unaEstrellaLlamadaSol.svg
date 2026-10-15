@@ -43,6 +43,7 @@
 			<g transform="translate(-0.651109, +0.375918) scale(0.3,-0.3)">
 				<text x="0" y="0" transform="rotate(-55, 0, 0)" text-anchor="middle" dominant-baseline="middle" font-family="times" font-weight="bold" font-size="1" fill="black">
 					Z</text></g>
+      <!-- <circle id="T09" cx="-0.495658" cy="-0.074491" r="0.02" /> -->
 
 			<circle id="C11" cx="-0.274977" cy="+0.699746" r="0.248163" />
 			<g transform="translate(-0.274977, +0.699746) scale(0.3,-0.3)">
